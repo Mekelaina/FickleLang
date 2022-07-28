@@ -1,0 +1,5 @@
+fic
+	;comment
+	mov s0, "hello world" 
+	prt s0
+kle
