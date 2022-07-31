@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 substring = "1.4.5"
+regex = "1.6.0"
+lazy_static = "1.4.0"
